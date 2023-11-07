@@ -1,7 +1,7 @@
 (function () {
     const LOCALHOST_URL = [
-        'http://localhost:5173/@vite/client',
-        'http://localhost:5173/main.js',
+        'http://localhost:3000/@vite/client',
+        'http://localhost:3000/main.js',
     ]
     const PROD_URL = ['https://MY-PROJECT.netlify.app/main.js']
 
